@@ -19,3 +19,11 @@ The goal is to validate system behavior end-to-end — from user input to firmwa
 - System reliability and performance
 
 This portfolio reflects real-world testing approaches I applied in smart metering, POS systems, and device-based platforms.
+
+## System Flow
+
+User → Control Panel / PC → Firmware → Device (Print/Scan) → Output
+                                  ↓
+                               Network
+                                  ↓
+                               Backend
