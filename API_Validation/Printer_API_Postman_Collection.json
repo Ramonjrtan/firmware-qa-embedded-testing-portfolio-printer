@@ -1,0 +1,14 @@
+{
+  "info": {
+    "name": "Printer API"
+  },
+  "item": [
+    {
+      "name": "Print Job",
+      "request": {
+        "method": "POST",
+        "url": "http://printer/api/print"
+      }
+    }
+  ]
+}

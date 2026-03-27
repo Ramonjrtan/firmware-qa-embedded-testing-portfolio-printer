@@ -1,0 +1,5 @@
+[INFO] Printer Started
+[INFO] Print Job Received
+[ERROR] Paper Jam
+[INFO] Job Paused
+[INFO] Job Resumed
